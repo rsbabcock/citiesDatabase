@@ -37,8 +37,8 @@ citiesDatabase.cities.push(
     },
     {
         name: "Auckland, NZ",
-        image: "",
-        topFive: [],
+        image: "https://cdn.pixabay.com/photo/2015/09/06/11/10/auckland-927242_960_720.jpg",
+        topFive: ["Kelly Tarltons Aquariaum", "Sky Tower", "Howick Historical Village", "Skywalk", "Auckland War Memorial Museum"],
         yearVisited: "2010"
     },
     {
