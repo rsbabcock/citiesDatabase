@@ -42,31 +42,31 @@ citiesDatabase.cities.push(
         yearVisited: "2010"
     },
     {
-        name: "Rotorua",
+        name: "Rotorua, NZ",
         image: "",
         topFive: [],
         yearVisited: "2010"
     },
     {
-        name: "Washington DC",
+        name: "Washington DC, US",
         image: "",
         topFive: [],
         yearVisited: "2013"
     },
     {
-        name: "Charleston",
+        name: "Charleston, US",
         image: "",
         topFive: [],
         yearVisited: "2013"
     },
     {
-        name: "Jerusalem",
+        name: "Jerusalem, Israel",
         image: "",
         topFive: [],
         yearVisited: "2014"
     },
     {
-        name: "Seattle",
+        name: "Seattle, US",
         image: "",
         topFive: [],
         yearVisited: "2014"
