@@ -61,8 +61,8 @@ citiesDatabase.cities.push(
     },
     {
         name: "Jerusalem, Israel",
-        image: "",
-        topFive: [],
+        image: "https://cdn.pixabay.com/photo/2015/11/14/11/03/jerusalem-1042972_960_720.jpg",
+        topFive: ["City of David", "Jaffa Gate", "Garden Tomb", "Gethsemane", "Mount of Olives"],
         yearVisited: "2014"
     },
     {
