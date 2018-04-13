@@ -12,31 +12,31 @@ citiesDatabase.cities = []
 
 citiesDatabase.cities.push(
     {
-        name: "Nashville",
+        name: "Nashville, US",
         image: "https://c1.staticflickr.com/8/7735/27492741871_b2ddc952f3_b.jpg",
         topFive: ["Music Row", "Nashville Parthenon", "Grand Ole Opry", "Country Music Hall of Fame", "Ryman Auditorium"],
         yearVisited: "2004"
     },
     {
-        name: "Belize City",
+        name: "Belize City, Belize",
         image: "https://cdn.pixabay.com/photo/2016/04/13/21/20/belize-city-1327716_960_720.jpg",
         topFive: ["Ambergris Caye", "Lighthouse Reef", "Great Blue Hole", "Caye Caulker", "Turneffe Islands Atoll"],
         yearVisited: "2006"
     },   
     {
-        name: "Toronto",
+        name: "Toronto, Canada",
         image: "https://cdn.pixabay.com/photo/2013/07/18/18/55/toronto-164813_960_720.jpg",
         topFive: ["Casa Loma", "Ripleys Aquarium", "CN Tower", "Royal Ontario Museum", "Toronto Zoo"],
         yearVisited: "2008"
     },
     {
-        name: "Snells Beach",
-        image: "",
-        topFive: [],
+        name: "Snells Beach, NZ",
+        image: "https://c1.staticflickr.com/8/7570/16097337850_9613da5c75_b.jpg",
+        topFive: ["Scotts Landing", "Sheep World", "Snells Beach", "The Wharehouse", "Algies Bay"],
         yearVisited: "2010"
     },
     {
-        name: "Auckland",
+        name: "Auckland, NZ",
         image: "",
         topFive: [],
         yearVisited: "2010"
