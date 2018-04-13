@@ -75,6 +75,6 @@ citiesDatabase.cities.push(
 
 )
 
-localStorage.setItem("citiesDatase",
+localStorage.setItem("citiesDatabase",
      JSON.stringify(citiesDatabase)
     )
