@@ -55,8 +55,8 @@ citiesDatabase.cities.push(
     },
     {
         name: "Charleston, US",
-        image: "",
-        topFive: [],
+        image: "https://cdn.pixabay.com/photo/2015/09/07/20/44/charleston-929080_960_720.jpg",
+        topFive: ["Historic Charleston City Market", "Magnolia Plantation and Gardens", "Rainbow Row", "Morris Island Whitehouse", "Saint Michael's Church"],
         yearVisited: "2013"
     },
     {
