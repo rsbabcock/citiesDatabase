@@ -67,8 +67,8 @@ citiesDatabase.cities.push(
     },
     {
         name: "Seattle, US",
-        image: "",
-        topFive: [],
+        image: "https://c1.staticflickr.com/4/3209/3046028613_94696a5b90_b.jpg",
+        topFive: ["Pike Place Fish Market", "Space Needle", "First Starbucks Store", "Seattle Center", "Waterfront Park"],
         yearVisited: "2014"
     },
 
