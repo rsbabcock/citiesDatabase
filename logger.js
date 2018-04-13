@@ -25,8 +25,8 @@ citiesDatabase.cities.push(
     },   
     {
         name: "Toronto",
-        image: "",
-        topFive: [],
+        image: "https://cdn.pixabay.com/photo/2013/07/18/18/55/toronto-164813_960_720.jpg",
+        topFive: ["Casa Loma", "Ripleys Aquarium", "CN Tower", "Royal Ontario Museum", "Toronto Zoo"],
         yearVisited: "2008"
     },
     {
