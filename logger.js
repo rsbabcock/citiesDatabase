@@ -43,8 +43,8 @@ citiesDatabase.cities.push(
     },
     {
         name: "Rotorua, NZ",
-        image: "",
-        topFive: [],
+        image: "https://c1.staticflickr.com/3/2306/2280382074_cf9596c348_b.jpg",
+        topFive: ["Te Puia", "Tamaki Maori Village", "Wai-o-Tapu", "Skyline Rotorua", "AgroDome"],
         yearVisited: "2010"
     },
     {
