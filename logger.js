@@ -54,14 +54,14 @@ citiesDatabase.cities.push(
         continent: "Australaia"
     },
     {
-        name: "Washington DC, US",
+        name: "Washington DC",
         image: "https://c1.staticflickr.com/9/8288/7662519762_b374d5dbc5_b.jpg",
         topFive: ["Lincoln Memorial", "Vietnam Veterans Memorial", "Thomas Jefferson Memorial", "National Mall", "Smithsonian Museum"],
         yearVisited: "2013",
         continent: "North America"
     },
     {
-        name: "Charleston, US",
+        name: "Charleston",
         image: "https://c1.staticflickr.com/8/7433/9306214120_e62ac8825c_b.jpg",
         topFive: ["Historic Charleston City Market", "Magnolia Plantation and Gardens", "Rainbow Row", "Morris Island Whitehouse", "Saint Michael's Church"],
         yearVisited: "2013",
@@ -75,7 +75,7 @@ citiesDatabase.cities.push(
         continent: "Asia"
     },
     {
-        name: "Seattle, US",
+        name: "Seattle",
         image: "https://c1.staticflickr.com/4/3209/3046028613_94696a5b90_b.jpg",
         topFive: ["Pike Place Fish Market", "Space Needle", "First Starbucks Store", "Seattle Center", "Waterfront Park"],
         yearVisited: "2014",
