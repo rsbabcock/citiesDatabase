@@ -19,13 +19,13 @@ citiesDatabase.cities.push(
     },
     {
         name: "Belize City, Belize",
-        image: "https://cdn.pixabay.com/photo/2016/04/13/21/20/belize-city-1327716_960_720.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bliss_and_Radisson_-_Belize_City.jpg",
         topFive: ["Ambergris Caye", "Lighthouse Reef", "Great Blue Hole", "Caye Caulker", "Turneffe Islands Atoll"],
         yearVisited: "2006"
     },   
     {
         name: "Toronto, Canada",
-        image: "https://cdn.pixabay.com/photo/2013/07/18/18/55/toronto-164813_960_720.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Toronto_Ontario.jpg",
         topFive: ["Casa Loma", "Ripleys Aquarium", "CN Tower", "Royal Ontario Museum", "Toronto Zoo"],
         yearVisited: "2008"
     },
@@ -37,7 +37,7 @@ citiesDatabase.cities.push(
     },
     {
         name: "Auckland, NZ",
-        image: "https://cdn.pixabay.com/photo/2015/09/06/11/10/auckland-927242_960_720.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg",
         topFive: ["Kelly Tarltons Aquariaum", "Sky Tower", "Howick Historical Village", "Skywalk", "Auckland War Memorial Museum"],
         yearVisited: "2010"
     },
@@ -49,19 +49,19 @@ citiesDatabase.cities.push(
     },
     {
         name: "Washington DC, US",
-        image: "https://cdn.pixabay.com/photo/2013/02/09/01/31/washington-dc-79565_960_720.jpg",
+        image: "https://c1.staticflickr.com/9/8288/7662519762_b374d5dbc5_b.jpg",
         topFive: ["Lincoln Memorial", "Vietnam Veterans Memorial", "Thomas Jefferson Memorial", "National Mall", "Smithsonian Museum"],
         yearVisited: "2013"
     },
     {
         name: "Charleston, US",
-        image: "https://cdn.pixabay.com/photo/2015/09/07/20/44/charleston-929080_960_720.jpg",
+        image: "https://c1.staticflickr.com/8/7433/9306214120_e62ac8825c_b.jpg",
         topFive: ["Historic Charleston City Market", "Magnolia Plantation and Gardens", "Rainbow Row", "Morris Island Whitehouse", "Saint Michael's Church"],
         yearVisited: "2013"
     },
     {
         name: "Jerusalem, Israel",
-        image: "https://cdn.pixabay.com/photo/2015/11/14/11/03/jerusalem-1042972_960_720.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Temple_Mount_%28Jerusalem%2C_2008%29_02.jpg",
         topFive: ["City of David", "Jaffa Gate", "Garden Tomb", "Gethsemane", "Mount of Olives"],
         yearVisited: "2014"
     },
@@ -77,4 +77,4 @@ citiesDatabase.cities.push(
 
 localStorage.setItem("citiesDatabase",
      JSON.stringify(citiesDatabase)
-    )
+    )   
