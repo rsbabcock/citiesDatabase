@@ -49,8 +49,8 @@ citiesDatabase.cities.push(
     },
     {
         name: "Washington DC, US",
-        image: "",
-        topFive: [],
+        image: "https://cdn.pixabay.com/photo/2013/02/09/01/31/washington-dc-79565_960_720.jpg",
+        topFive: ["Lincoln Memorial", "Vietnam Veterans Memorial", "Thomas Jefferson Memorial", "National Mall", "Smithsonian Museum"],
         yearVisited: "2013"
     },
     {
