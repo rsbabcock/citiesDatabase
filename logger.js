@@ -13,14 +13,14 @@ citiesDatabase.cities = []
 citiesDatabase.cities.push(
     {
         name: "Nashville",
-        image: "",
-        topFive: [],
+        image: "https://c1.staticflickr.com/8/7735/27492741871_b2ddc952f3_b.jpg",
+        topFive: ["Music Row", "Nashville Parthenon", "Grand Ole Opry", "Country Music Hall of Fame", "Ryman Auditorium"],
         yearVisited: "2004"
     },
     {
         name: "Belize City",
-        image: "",
-        topFive: [],
+        image: "https://cdn.pixabay.com/photo/2016/04/13/21/20/belize-city-1327716_960_720.jpg",
+        topFive: ["Ambergris Caye", "Lighthouse Reef", "Great Blue Hole", "Caye Caulker", "Turneffe Islands Atoll"],
         yearVisited: "2006"
     },   
     {
